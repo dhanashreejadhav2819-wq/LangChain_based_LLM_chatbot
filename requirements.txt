@@ -1,0 +1,6 @@
+langchain-core>=0.3.72,<1
+langchain-groq>=0.2,<1
+# Keep the compatible LangSmith client line to avoid its optional transport v2.
+langsmith>=0.3.45,<0.5
+python-dotenv>=1,<2
+streamlit>=1.40,<2
